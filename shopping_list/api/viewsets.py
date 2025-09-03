@@ -1,5 +1,6 @@
 # shopping_list/api/viewsets.py
 
+from rest_framework.renderers import JSONRenderer
 from rest_framework.viewsets import ModelViewSet
 
 from shopping_list.api.serializers import ShoppingItemSerializer
