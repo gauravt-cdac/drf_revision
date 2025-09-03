@@ -1,1 +1,1 @@
-"# DRF Shopping Project" 
+# DRF Shopping Project api
